@@ -359,12 +359,12 @@
     },
     {
         "name": "LiveSongPlayer",
-        "author": "MicroBlock",
+        "author": "milo1023",
         "version": "0.1.7",
         "slug": "LiveSongPlayer",
         "update_time": 1676099592,
         "publish_time": 1673944958,
-        "repo": "MicroCBer/LiveSongPlayer-MKII",
+        "repo": "milo1023/LiveSongPlayer-MKII",
         "stars": 1,
         "file": "LiveSongPlayer-0.1.7.plugin",
         "file-url": "plugins/LiveSongPlayer-0.1.7.plugin"
